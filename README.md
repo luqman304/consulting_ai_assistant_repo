@@ -2,10 +2,6 @@
 
 A Streamlit demo that lets you upload consulting PDFs (case studies, proposals, client decks) and chat with them using Retrieval-Augmented Generation (RAG).
 
-## Why this helps you win consulting-bot jobs
-- Shows **LLM integration** + **document understanding**.
-- Demonstrates **vector search** with persistent ChromaDB.
-- Clean UX for non-technical users (consultants).
 
 ## Features
 - Upload multiple PDFs.
